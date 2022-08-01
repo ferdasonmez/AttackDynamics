@@ -13,4 +13,6 @@ The system relies on scenario input which is dependent on metadata and dynamic u
 ![image](https://user-images.githubusercontent.com/8194836/157331435-c818e9e2-297d-4ff4-b6bc-072cee9a0cc5.png)
 
 
-System Parts Top Level View
+# System Parts Top Level View
+![image](https://github.com/ferdasonmez/AttackDynamics/blob/9b449b6dcf7f252d587f29e1fa3678db2f6357fc/Figure_1_final.png)
+
